@@ -1,0 +1,13 @@
+.searchbox{
+  justify-content:center;
+  text-align:center;
+  height: 20px;
+  background-color: #f3ecb8;
+}
+.search{
+  width:500px;
+  height:100px;
+  padding: 20px;
+border: 30px solid #cc0e74;
+background-Color: #eab9c9;
+}
